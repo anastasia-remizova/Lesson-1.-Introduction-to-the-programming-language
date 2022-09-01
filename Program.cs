@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введи 2 числа");
+﻿//Задача №1
+Console.WriteLine("Введи 2 числа");
 
  int a, b;
  Console.WriteLine("Введи число ");
@@ -13,7 +14,7 @@
 { Console.WriteLine("Второе число  больше чем первое");}
 
 
-
+//Задача №2
 Console.WriteLine("Введи 3 числа");
 
  int a, b, c ;
@@ -33,7 +34,7 @@ Console.WriteLine("Введи 3 числа");
 else 
 { Console.WriteLine("Третье число самое большое");}
 
-
+//Задача №3
 int a;                             
 Console.Write("введите число: ");
 a= Console.Read();
